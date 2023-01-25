@@ -38,8 +38,8 @@ struct GangNamListView: View {
                             NavigationLink("송파구", destination: MapView())
                             NavigationLink("강동구", destination: MapView())
                            
-                        } // 구 그룹
-                    }
+                        }
+                    } // 구 섹션
                     
                 
                 }// 리스트
