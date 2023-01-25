@@ -23,7 +23,7 @@ struct MapView: View {
             .frame(width: 428.0, height: 940.0)
             .cornerRadius(10.0)
             .scaledToFill()
-            
+            .edgesIgnoringSafeArea(.all)
             
             
     }

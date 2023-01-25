@@ -9,7 +9,6 @@ import SwiftUI
 
 struct GangBukListView: View {
     var body: some View {
-   
          List
             {
                 Section(header: Text("Main Places")) {
@@ -47,7 +46,7 @@ struct GangBukListView: View {
                 
             } //리스트
             .navigationTitle("강북")
-         // 네비게이션 뷰
+        // 네비게이션 뷰
     }
 }
 
